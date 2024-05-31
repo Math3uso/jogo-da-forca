@@ -19,3 +19,4 @@ um jogo da forca simples com com 8 palavras no total, todas as palavras estão n
     </li>
 </ul>
 
+![Captura de tela 2024-05-30 204040](https://github.com/Math3uso/jogo-da-forca/assets/155112086/77793d48-5a51-410a-a566-d85bbd7921bf)
